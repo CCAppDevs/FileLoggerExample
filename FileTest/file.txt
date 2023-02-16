@@ -1,0 +1,12 @@
+[LOG] I like toast
+[WARN] this is a warning
+[ERROR] i broke it
+[LOG] another log message
+[LOG] I like toast
+[WARN] this is a warning
+[ERROR] i broke it
+[LOG] another log message
+[LOG] I like toast
+[WARN] this is a warning
+[ERROR] i broke it
+[LOG] another log message
